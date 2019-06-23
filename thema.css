@@ -372,9 +372,11 @@ background-color: var(--macOSClose);
 }
 .content-1-zrf2.pc-content {
   opacity: 1;
+  transparency: 0.5;
 }
 .content-1-zrf2.da-content {
   opacity: 1;
+  transparency: 0.5;
 }
 .problemsText-1Yx-Kl.pc-problemsText {
   visibility: hidden;
